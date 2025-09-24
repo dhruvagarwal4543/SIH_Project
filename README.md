@@ -1,7 +1,7 @@
 
-  # original
+  # SIH Project
 
-  This is a code bundle for original. The original project is available at https://www.figma.com/design/nZwOXJyClg11gLMEULuIww/original.
+  This is a code bundle for original. The SIH project is available at https://www.figma.com/design/nZwOXJyClg11gLMEULuIww/original.
 
   ## Running the code
 
